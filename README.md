@@ -49,21 +49,21 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=prajwalmehrotra12212095&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AnkitPatel-12222396&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prajwalmehrotra12212095&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitPatel-12222396&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prajwalmehrotra12212095&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnkitPatel-12222396&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <h3 align="center">🏆 Achievements</h3>
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=prajwalmehrotra12212095&theme=onedark">
-    <img src="https://github-profile-trophy.vercel.app/?username=prajwalmehrotra12212095&theme=onedark" alt="GitHub Trophies" />
+  <a href="https://github-profile-trophy.vercel.app/?username=AnkitPatel-12222396&theme=onedark">
+    <img src="https://github-profile-trophy.vercel.app/?username=AnkitPatel-12222396&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -89,10 +89,9 @@
 
 <h3 align="center">📅 Learning Goals</h3>
 <ul>
-  <li>Master <strong>DevOps tools</strong> like Docker, Kubernetes, and AWS</li>
+  <li>Master <strong>visulization tools</strong> like Tableau,PowerBI and Excel.</li>
   <li>Challenge myself with advanced <strong>SQL</strong> problems on <strong>LeetCode</strong></li>
-  <li>Explore <strong>microservices architecture</strong> and CI/CD pipelines</li>
-  <li>Practice <strong>C++</strong> and strengthen my understanding of <strong>Data Structures and Algorithms (DSA)</strong></li>
+  <li>Practice <strong>Java</strong> and strengthen my understanding of <strong>Data Structures and Algorithms (DSA)</strong></li>
   <li>Work on <strong>real-world projects</strong> to apply my skills and learn collaboratively</li>
 </ul>
 
